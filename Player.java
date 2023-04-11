@@ -1,5 +1,8 @@
 package com.SnackLadderGame;
 
+/**
+ * @author Prasanna
+ */
 public class Player {
     private int position;
 

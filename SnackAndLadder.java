@@ -1,7 +1,7 @@
 package com.SnackLadderGame;
 
 /**
- *
+ * @author Prasanna
  */
 public class SnackAndLadder {
     int snake[] = { 12, 46, 57, 78 };
